@@ -1,2 +1,2 @@
 #!/bin/bash
---wxr-xr-- olleh hello
+chmod --reference=olleh hello
