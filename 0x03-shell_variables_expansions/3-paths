@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $PATH | tr ":" "\n" | wc-1
+cat $PATH| tr ":" "\n" | wc-1
